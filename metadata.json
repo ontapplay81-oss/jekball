@@ -1,0 +1,7 @@
+{
+  "name": "Copy of JekBall Casino",
+  "description": "A high-stakes premium casino platform featuring multiple jackpot games, instant deposits via bKash, Nagad, and Rocket, and a luxury gambling experience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
